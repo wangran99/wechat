@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="wechat:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="518ffa47-6fd6-4a6f-8754-a55e1b473ec4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zma9foJlFZ6KBR90EsP6IZuIIX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\wechat\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\wechat\src\main\resources\static" />
+      <recent name="D:\code\wechat\src\main\resources\static\img" />
+      <recent name="D:\code\wechat\src\main\resources\static\js" />
+      <recent name="D:\code\wechat\src\main\resources\static\css" />
+      <recent name="D:\code\wechat\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WechatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wechat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangran.wechat.WechatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="518ffa47-6fd6-4a6f-8754-a55e1b473ec4" name="Default Changelist" comment="" />
+      <created>1585446572906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585446572906</updated>
+      <workItem from="1585446577146" duration="4592000" />
+      <workItem from="1585451666597" duration="26941000" />
+      <workItem from="1585564508170" duration="2023000" />
+      <workItem from="1585567646167" duration="2337000" />
+      <workItem from="1585650323009" duration="5641000" />
+      <workItem from="1585738124553" duration="5812000" />
+      <workItem from="1585822797263" duration="5131000" />
+      <workItem from="1585970235552" duration="20121000" />
+      <workItem from="1585991289481" duration="3957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="247" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1585450353670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="589" y="247" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1280.680@0.0.1280.680" timestamp="1585450353670" />
+    <state x="430" y="247" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1585450592434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="247" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1280.680@0.0.1280.680" timestamp="1585450592434" />
+    <state width="591" height="466" key="DebuggerActiveHint" timestamp="1585993505919">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="591" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1585993505919" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1585450591243">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585450591243" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585993820098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585993820098" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585993820097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585993820097" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585993820097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585993820097" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585993820098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585993820098" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585993807375">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585993807375" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1585993807376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1585993807376" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1585985001746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585985001746" />
+    <state width="648" height="348" key="XDebugger.FullValuePopup" timestamp="1585990270201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="648" height="348" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1585990270201" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1585991290418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585991290418" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wangran/wechat/controller/WechatController.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
